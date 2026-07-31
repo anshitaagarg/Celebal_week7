@@ -1,0 +1,5 @@
+Row_ID,Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Name,Segment,Country,City,State,Postal_Code,Region,Product_ID,Category,Sub-Category,Product_Name,Sales,Quantity,Discount,Profit
+1,CA-2016-152156,2016-11-08,2016-11-11,Second Class,CG-12520,Claire Gute,Consumer,United States,Henderson,Kentucky,42420,South,FUR-BO-10001798,Furniture,Bookcases,Bush Somerset Collection Bookcase,999.99,20,0,999.99
+5,US-2015-108966,2015-10-11,2015-10-18,Standard Class,SO-20335,Sean O'Donnell,Consumer,United States,Fort Lauderdale,Florida,33311,South,FUR-TA-10000577,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,555.55,15,0.45,555.55
+10001,CA-2026-999999,2026-07-31,2026-08-02,Second Class,AA-99999,New Customer,Consumer,United States,Austin,Texas,73301,Central,NEW-001,Technology,Accessories,Wireless Keyboard,1200.00,8,0,1200.00
+10002,CA-2026-888888,2026-07-31,2026-08-03,Standard Class,BB-88888,Another Customer,Corporate,United States,Seattle,Washington,98101,West,NEW-002,Office Supplies,Paper,Premium A4 Paper,650.00,4,0,650.00
